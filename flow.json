@@ -7,7 +7,7 @@
 			}
 		},
 		"CarClub": {
-			"source": "cadence/contracts/Counter.cdc",
+			"source": "cadence/contracts/CarClub.cdc",
 			"aliases": {
 				"testing": "0000000000000007",
 				"mainnet": "f887ece39166906e"
