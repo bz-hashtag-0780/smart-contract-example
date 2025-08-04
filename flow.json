@@ -233,5 +233,10 @@
 				"location": "mainnet-account.pkey"
 			}
 		}
+	},
+	"deployments": {
+		"mainnet": {
+			"mainnet-account": ["CarClub"]
+		}
 	}
 }
